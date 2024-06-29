@@ -1,0 +1,26 @@
+type of css - 
+how to link them,- css
+
+./  reprasents  current dirctory or curren folder 
+../ reprasents  one back to dirctory or folder from current
+
+
+high  - inline use in tag <span style="color:red;"></span>
+medium - internal css  we will use in style tag <style> </style>
+low  using with external ...
+
+html layout 
+we have -
+header 
+navbar 
+side bar 
+main  content 
+footer 
+
+
+
+
+form in html
+
+
+
